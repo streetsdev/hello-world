@@ -1,0 +1,2 @@
+This is a new branch testing adding a text file through IDE.
+Added new text after commit but before push.
